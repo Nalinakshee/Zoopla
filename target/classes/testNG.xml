@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Zoopla Application Automation Suite">
+	<test name="Zoopla Application Test">		
+		<classes>
+			<class name="com.zoopla.testcases.ZooplaHomeTest" />
+		</classes>
+	</test>
+</suite>

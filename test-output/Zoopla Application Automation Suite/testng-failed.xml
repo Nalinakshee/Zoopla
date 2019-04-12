@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Zoopla Application Automation Suite]">
+  <test name="Zoopla Application Test(failed)">
+    <classes>
+      <class name="com.zoopla.testcases.ZooplaHomeTest">
+        <methods>
+          <include name="zooplaTest"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.zoopla.testcases.ZooplaHomeTest -->
+    </classes>
+  </test> <!-- Zoopla Application Test(failed) -->
+</suite> <!-- Failed suite [Zoopla Application Automation Suite] -->
